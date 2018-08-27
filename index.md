@@ -1,3 +1,10 @@
+# Shafay Haq's first CS193 lab!
+
+## What I love about CS19300
+- it's fun
+- You learn cool stuff
+- The stuff you learn will help you in all your CS classes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
